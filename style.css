@@ -26,6 +26,7 @@ a.a-SUM{
 
 a.a-SUM:active{
     color: rgb(6, 92, 252);
+    background-color: rgb(238, 238, 238);
 }
 
 body {
@@ -90,7 +91,7 @@ section {
     background-color: rgb(255, 255, 255);
     border-radius: 8px;
     margin: auto;
-    width: 1300px;
+    width: 1200px;
     padding: 20px;
     padding-right: 20px;
     padding-left: 20px;
