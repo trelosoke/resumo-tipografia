@@ -29,6 +29,10 @@ a.a-SUM:active{
     background-color: rgb(238, 238, 238);
 }
 
+a.a-SUM:hover{
+    background-color: #cbd4e4;
+}
+
 body {
     font: 400 1.4em 'Roboto Serif','Arial Serif', serif;
     background-color: cornflowerblue;
